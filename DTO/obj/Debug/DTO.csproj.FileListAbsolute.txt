@@ -1,0 +1,24 @@
+D:\C#\Coffee Management\CoffeeManagement\DTO\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DTO\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DTO\obj\Debug\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DTO\obj\Debug\DTO.pdb
+D:\CofeeManagement\DTO\bin\Debug\DTO.dll
+D:\CofeeManagement\DTO\bin\Debug\DTO.pdb
+D:\CofeeManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\CofeeManagement\DTO\obj\Debug\DTO.dll
+D:\CofeeManagement\DTO\obj\Debug\DTO.pdb
+D:\C#\Coffee Management\CofeeManagement\DTO\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CofeeManagement\DTO\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CofeeManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CofeeManagement\DTO\obj\Debug\DTO.dll
+D:\C#\Coffee Management\CofeeManagement\DTO\obj\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\DTO\bin\Debug\DTO.dll
+C:\Users\Anh\Desktop\New folder\DTO\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\New folder\DTO\obj\Debug\DTO.dll
+C:\Users\Anh\Desktop\New folder\DTO\obj\Debug\DTO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DTO\bin\Debug\DTO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DTO\bin\Debug\DTO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Truong\Desktop\CoffeeManagement\DTO\obj\Debug\DTO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DTO\obj\Debug\DTO.pdb

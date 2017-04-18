@@ -1,0 +1,35 @@
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Debug\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\DAO\obj\Debug\DAO.pdb
+D:\CofeeManagement\DAO\bin\Debug\DAO.dll
+D:\CofeeManagement\DAO\bin\Debug\DAO.pdb
+D:\CofeeManagement\DAO\bin\Debug\DTO.dll
+D:\CofeeManagement\DAO\bin\Debug\DTO.pdb
+D:\CofeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\CofeeManagement\DAO\obj\Debug\DAO.dll
+D:\CofeeManagement\DAO\obj\Debug\DAO.pdb
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CofeeManagement\DAO\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CofeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CofeeManagement\DAO\obj\Debug\DAO.dll
+D:\C#\Coffee Management\CofeeManagement\DAO\obj\Debug\DAO.pdb
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DAO.dll
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DAO.pdb
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DTO.dll
+C:\Users\Anh\Desktop\New folder\DAO\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\New folder\DAO\obj\Debug\DAO.dll
+C:\Users\Anh\Desktop\New folder\DAO\obj\Debug\DAO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DAO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DAO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DTO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\bin\Debug\DTO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\obj\Debug\DAO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\DAO\obj\Debug\DAO.pdb

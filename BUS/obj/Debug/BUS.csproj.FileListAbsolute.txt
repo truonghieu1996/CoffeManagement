@@ -1,0 +1,45 @@
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\BUS.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Debug\BUS.dll
+D:\C#\Coffee Management\CoffeeManagement\BUS\obj\Debug\BUS.pdb
+D:\CofeeManagement\BUS\bin\Debug\BUS.dll
+D:\CofeeManagement\BUS\bin\Debug\BUS.pdb
+D:\CofeeManagement\BUS\bin\Debug\DAO.dll
+D:\CofeeManagement\BUS\bin\Debug\DTO.dll
+D:\CofeeManagement\BUS\bin\Debug\DAO.pdb
+D:\CofeeManagement\BUS\bin\Debug\DTO.pdb
+D:\CofeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\CofeeManagement\BUS\obj\Debug\BUS.dll
+D:\CofeeManagement\BUS\obj\Debug\BUS.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\C#\Coffee Management\CofeeManagement\BUS\obj\Debug\BUS.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\obj\Debug\BUS.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\BUS.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\BUS.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DAO.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DTO.dll
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DAO.pdb
+D:\C#\Coffee Management\CofeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\BUS.dll
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\BUS.pdb
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DAO.dll
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DTO.dll
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DAO.pdb
+C:\Users\Anh\Desktop\New folder\BUS\bin\Debug\DTO.pdb
+C:\Users\Anh\Desktop\New folder\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\New folder\BUS\obj\Debug\BUS.dll
+C:\Users\Anh\Desktop\New folder\BUS\obj\Debug\BUS.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\BUS.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\BUS.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DAO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DTO.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DAO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\bin\Debug\DTO.pdb
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\obj\Debug\BUS.dll
+C:\Users\Truong\Desktop\CoffeeManagement\BUS\obj\Debug\BUS.pdb

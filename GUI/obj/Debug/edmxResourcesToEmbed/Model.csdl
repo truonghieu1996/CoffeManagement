@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CoffeeManagementModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="CoffeeManagementEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Bills" EntityType="CoffeeManagementModel.Bill" />
+    <EntitySet Name="BillInfoes" EntityType="CoffeeManagementModel.BillInfo" />
+    <EntitySet Name="Foods" EntityType="CoffeeManagementModel.Food" />
+    <AssociationSet Name="FK__BillInfo__Amount__2A4B4B5E" Association="CoffeeManagementModel.FK__BillInfo__Amount__2A4B4B5E">
+      <End Role="Bill" EntitySet="Bills" />
+      <End Role="BillInfo" EntitySet="BillInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BillInfo__FoodID__2B3F6F97" Association="CoffeeManagementModel.FK__BillInfo__FoodID__2B3F6F97">
+      <End Role="Food" EntitySet="Foods" />
+      <End Role="BillInfo" EntitySet="BillInfoes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Bill">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="CheckIn" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TableID" Type="Int32" Nullable="false" />
+    <Property Name="Discount" Type="Int32" Nullable="false" />
+    <Property Name="TotalPrice" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BillInfoes" Relationship="CoffeeManagementModel.FK__BillInfo__Amount__2A4B4B5E" FromRole="Bill" ToRole="BillInfo" />
+  </EntityType>
+  <EntityType Name="BillInfo">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="BillID" Type="Int32" Nullable="false" />
+    <Property Name="FoodID" Type="Int32" Nullable="false" />
+    <Property Name="Amount" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Bill" Relationship="CoffeeManagementModel.FK__BillInfo__Amount__2A4B4B5E" FromRole="BillInfo" ToRole="Bill" />
+    <NavigationProperty Name="Food" Relationship="CoffeeManagementModel.FK__BillInfo__FoodID__2B3F6F97" FromRole="BillInfo" ToRole="Food" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="100" Unicode="true" FixedLength="false" />
+    <Property Name="CategoryID" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BillInfoes" Relationship="CoffeeManagementModel.FK__BillInfo__FoodID__2B3F6F97" FromRole="Food" ToRole="BillInfo" />
+  </EntityType>
+  <Association Name="FK__BillInfo__Amount__2A4B4B5E">
+    <End Role="Bill" Type="CoffeeManagementModel.Bill" Multiplicity="1" />
+    <End Role="BillInfo" Type="CoffeeManagementModel.BillInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bill">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="BillInfo">
+        <PropertyRef Name="BillID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BillInfo__FoodID__2B3F6F97">
+    <End Role="Food" Type="CoffeeManagementModel.Food" Multiplicity="1" />
+    <End Role="BillInfo" Type="CoffeeManagementModel.BillInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Food">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="BillInfo">
+        <PropertyRef Name="FoodID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

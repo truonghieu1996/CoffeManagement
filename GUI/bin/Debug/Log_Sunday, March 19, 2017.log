@@ -1,0 +1,123 @@
+3/19/2017 9:35:50 AM ## ----------admin log in ----------
+3/19/2017 9:36:27 AM ## check new Bill, ID = 91, Total price = 44000
+3/19/2017 9:37:01 AM ## ----------admin log out ----------
+3/19/2017 10:15:51 AM ## ----------admin log in ----------
+3/19/2017 10:15:54 AM ## ----------admin log out ----------
+3/19/2017 10:15:56 AM ## ----------admin log in ----------
+3/19/2017 10:15:58 AM ## ----------admin log out ----------
+3/19/2017 10:22:21 AM ## ----------admin log in ----------
+3/19/2017 10:24:39 AM ## ----------admin log in ----------
+3/19/2017 10:24:43 AM ## ----------admin log out ----------
+3/19/2017 10:55:08 AM ## ----------vietanh log in ----------
+3/19/2017 10:55:28 AM ## change account's information
+3/19/2017 10:55:53 AM ## change account's information
+3/19/2017 10:56:22 AM ## change account's information
+3/19/2017 10:56:41 AM ## change account's information
+3/19/2017 10:58:33 AM ## add new Account: test
+3/19/2017 10:58:35 AM ## ----------vietanh log out ----------
+3/19/2017 10:58:41 AM ## ----------test log in ----------
+3/19/2017 10:58:45 AM ## ----------test log out ----------
+3/19/2017 10:58:50 AM ## ----------vietanh log in ----------
+3/19/2017 10:59:14 AM ## set password for Account: vietanh
+3/19/2017 10:59:25 AM ## delete Account: test
+3/19/2017 10:59:26 AM ## ----------vietanh log out ----------
+3/19/2017 10:59:29 AM ## ----------vietanh log in ----------
+3/19/2017 10:59:40 AM ## change account's information
+3/19/2017 10:59:46 AM ## ----------vietanh log out ----------
+3/19/2017 11:04:44 AM ## ----------admin log in ----------
+3/19/2017 11:06:20 AM ## ----------admin log in ----------
+3/19/2017 11:07:29 AM ## ----------admin log in ----------
+3/19/2017 11:07:45 AM ## ----------admin log in ----------
+3/19/2017 11:11:48 AM ## ----------admin log in ----------
+3/19/2017 11:12:49 AM ## ----------admin log in ----------
+3/19/2017 3:25:00 PM ## ----------admin log in ----------
+3/19/2017 3:25:28 PM ## add new Food: test
+3/19/2017 3:25:37 PM ## ----------admin log out ----------
+3/19/2017 3:25:50 PM ## ----------admin log in ----------
+3/19/2017 3:26:07 PM ## ----------admin log out ----------
+3/19/2017 3:29:08 PM ## ----------admin log in ----------
+3/19/2017 3:30:29 PM ## ----------admin log in ----------
+3/19/2017 3:30:45 PM ## add new Food: test
+3/19/2017 3:30:57 PM ## delete Food: test
+3/19/2017 3:31:13 PM ## add new Food: test
+3/19/2017 3:32:22 PM ## ----------admin log in ----------
+3/19/2017 3:32:45 PM ## ----------admin log out ----------
+3/19/2017 3:34:37 PM ## ----------admin log in ----------
+3/19/2017 3:39:34 PM ## ----------admin log in ----------
+3/19/2017 3:39:47 PM ## update Food: Name: Mới -> Món mới, Category ID: 1 -> 1, Price: 12000 -> 12000
+3/19/2017 3:39:57 PM ## ----------admin log out ----------
+3/19/2017 3:40:13 PM ## ----------admin log in ----------
+3/19/2017 3:40:24 PM ## delete Food: test
+3/19/2017 3:40:28 PM ## delete Food: Món mới
+3/19/2017 3:41:00 PM ## ----------admin log out ----------
+3/19/2017 3:43:15 PM ## ----------admin log in ----------
+3/19/2017 3:48:01 PM ## ----------admin log in ----------
+3/19/2017 3:53:24 PM ## ----------admin log in ----------
+3/19/2017 3:53:54 PM ## ----------admin log in ----------
+3/19/2017 4:00:56 PM ## ----------admin log in ----------
+3/19/2017 4:01:14 PM ## add new Food: test
+3/19/2017 4:01:23 PM ## update Food: Name: test -> món mới, Category ID: 3 -> 3, Price: 123 -> 1000
+3/19/2017 4:01:38 PM ## delete Food: món mới
+3/19/2017 4:02:33 PM ## ----------admin log in ----------
+3/19/2017 4:03:03 PM ## ----------admin log in ----------
+3/19/2017 4:05:49 PM ## ----------admin log in ----------
+3/19/2017 4:06:33 PM ## ----------admin log in ----------
+3/19/2017 4:08:56 PM ## ----------admin log in ----------
+3/19/2017 4:09:06 PM ## ----------admin log out ----------
+3/19/2017 4:09:15 PM ## ----------admin log in ----------
+3/19/2017 4:11:41 PM ## ----------admin log in ----------
+3/19/2017 4:22:01 PM ## ----------admin log in ----------
+3/19/2017 4:25:48 PM ## ----------admin log in ----------
+3/19/2017 4:26:59 PM ## add new Food: a
+3/19/2017 4:27:57 PM ## ----------admin log in ----------
+3/19/2017 4:44:20 PM ## ----------admin log in ----------
+3/19/2017 4:49:08 PM ## ----------admin log in ----------
+3/19/2017 4:50:16 PM ## ----------admin log in ----------
+3/19/2017 5:01:16 PM ## ----------admin log in ----------
+3/19/2017 5:01:43 PM ## ----------admin log in ----------
+3/19/2017 5:03:01 PM ## ----------admin log in ----------
+3/19/2017 5:03:15 PM ## update Food: Name:  -> abc, Category ID: 1 -> 1, Price: 12000 -> 12000
+3/19/2017 5:03:45 PM ## update Food: Name: abc -> abcd, Category ID: 1 -> 1, Price: 12000 -> 12000
+3/19/2017 5:34:00 PM ## ----------admin log in ----------
+3/19/2017 5:34:20 PM ## delete Food: abcd
+3/19/2017 5:34:25 PM ## ----------admin log out ----------
+3/19/2017 5:56:51 PM ## ----------admin log in ----------
+3/19/2017 5:57:12 PM ## ----------admin log out ----------
+3/19/2017 7:40:44 PM ## ----------admin log in ----------
+3/19/2017 7:42:25 PM ## ----------admin log in ----------
+3/19/2017 7:42:36 PM ## check new Bill, ID = 92, Total price = 42000
+3/19/2017 7:43:03 PM ## ----------admin log out ----------
+3/19/2017 7:56:49 PM ## ----------admin log in ----------
+3/19/2017 7:57:10 PM ## change Bàn 5 to Bàn 5
+3/19/2017 7:57:17 PM ## check new Bill, ID = 94, Total price = 36000
+3/19/2017 7:57:23 PM ## ----------admin log out ----------
+3/19/2017 7:59:09 PM ## ----------admin log in ----------
+3/19/2017 7:59:29 PM ## ----------admin log out ----------
+3/19/2017 8:12:39 PM ## ----------admin log in ----------
+3/19/2017 8:13:04 PM ## check new Bill, ID = 95, Total price = 56000
+3/19/2017 8:13:40 PM ## check new Bill, ID = 96, Total price = 30000
+3/19/2017 8:13:51 PM ## delete Table, ID = 44
+3/19/2017 8:13:56 PM ## ----------admin log out ----------
+3/19/2017 8:39:55 PM ## ----------admin log in ----------
+3/19/2017 8:40:14 PM ## change Bàn 2 to Bàn 2
+3/19/2017 8:40:23 PM ## check new Bill, ID = 70, Total price = 20000
+3/19/2017 8:41:04 PM ## add new Food: test
+3/19/2017 8:41:24 PM ## update Food: Name: test -> Món mới, Category ID: 1 -> 1, Price: 12000 -> 12000
+3/19/2017 8:42:00 PM ## check new Bill, ID = 98, Total price = 12000
+3/19/2017 8:42:11 PM ## delete Food: Món mới
+3/19/2017 8:43:31 PM ## delete Food: Cà phê đá
+3/19/2017 8:43:37 PM ## check new Bill, ID = 99, Total price = 10000
+3/19/2017 8:43:44 PM ## ----------admin log out ----------
+3/19/2017 8:50:12 PM ## ----------admin log in ----------
+3/19/2017 8:50:35 PM ## add new Food: Cà phê đá
+3/19/2017 8:51:12 PM ## check new Bill, ID = 100, Total price = 24000
+3/19/2017 8:56:22 PM ## ----------admin log in ----------
+3/19/2017 8:56:43 PM ## add new Category: test
+3/19/2017 8:57:32 PM ## ----------admin log in ----------
+3/19/2017 8:57:51 PM ## delete Category: test
+3/19/2017 8:58:02 PM ## add new Category: test
+3/19/2017 8:58:19 PM ## update Category: test -> Danh mục mới
+3/19/2017 8:58:41 PM ## delete Category: Danh mục mới
+3/19/2017 8:59:14 PM ## add new Account: newAccount
+3/19/2017 8:59:49 PM ## delete Account: newAccount
+3/19/2017 9:00:09 PM ## ----------admin log out ----------
